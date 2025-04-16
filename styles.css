@@ -320,6 +320,11 @@ section.animate {
     font-size: 1.2rem;
     font-weight: bold;
 }
+.project-link {
+    display: block; /* Makes the entire link area clickable */
+    width: 100%; /* Ensures it spans the full width */
+    height: 100%; /* Ensures the height is fully covered */
+}
 
 /* Contact Section */
 #contact {
